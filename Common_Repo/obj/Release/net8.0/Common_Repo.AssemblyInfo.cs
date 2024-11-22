@@ -14,6 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Common_Repo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9dcf35115064e936f9aef3f5712cc26b19a2781")]
 [assembly: System.Reflection.AssemblyProductAttribute("Common_Repo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Common_Repo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
