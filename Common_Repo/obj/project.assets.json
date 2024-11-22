@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tushar\\common_repo\\Common_Repo\\Common_Repo.csproj",
+      "projectUniqueName": "E:\\Tushar\\github_repo_demo_subtree\\Admin_Console\\Common\\Common_Repo\\Common_Repo.csproj",
       "projectName": "Common_Repo",
-      "projectPath": "E:\\Tushar\\common_repo\\Common_Repo\\Common_Repo.csproj",
+      "projectPath": "E:\\Tushar\\github_repo_demo_subtree\\Admin_Console\\Common\\Common_Repo\\Common_Repo.csproj",
       "packagesPath": "C:\\Users\\tushar.vaishya_pam\\.nuget\\packages\\",
-      "outputPath": "E:\\Tushar\\common_repo\\Common_Repo\\obj\\",
+      "outputPath": "E:\\Tushar\\github_repo_demo_subtree\\Admin_Console\\Common\\Common_Repo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tushar.vaishya_pam\\AppData\\Roaming\\NuGet\\NuGet.Config",
