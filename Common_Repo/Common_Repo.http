@@ -1,0 +1,6 @@
+@Common_Repo_HostAddress = http://localhost:5144
+
+GET {{Common_Repo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
